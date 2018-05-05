@@ -1,2 +1,2 @@
-# LostSantosFamilly
-Los Santos Familly
+# LostSantosFamily
+Los Santos Family
